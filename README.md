@@ -28,11 +28,17 @@ Módulo de internação hospitalar desenvolvido sobre o banco `clinica` da disci
 ## Estrutura
 
 ├──schema/
+
 ├── views/           
+
 ├── procedures/     
+
 ├── triggers/        
+
 ├── dados/          
+
 ├── diagramas/      
+
 └── apresentacao/  
 
 
