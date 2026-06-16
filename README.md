@@ -9,14 +9,14 @@
 Módulo de internação hospitalar desenvolvido sobre o banco `clinica` da disciplina. Gerencia alocação de pacientes em leitos, com controle de entrada e saída.
 
 
-## Tabelas criadas
+## Tabelas 
 
 - `quartos` — quartos vinculados aos ambulatórios
 - `leitos` — leitos dos quartos com controle de status
 - `internacoes` — registro de internações vinculando paciente, médico e leito
   
 
-## Objetos implementados
+## Objetos 
 
 **View** `vw_internacoes_ativas` — lista internações em andamento com dados do paciente, médico e leito.
 
